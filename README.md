@@ -2,4 +2,4 @@
 
 ## Dit ben ik
 
-![a green forest](img/lofi-forest.jpg)
+![a green forest](lofi-forest.jpg)
